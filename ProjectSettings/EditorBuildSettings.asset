@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 05c724bbc5db7fa4aa27570fb4b2bc73
+  - enabled: 1
+    path: Assets/Scenes/JustPlayed.unity
+    guid: 84a8ca7a7e8793f438173bfccf030015
+  - enabled: 1
+    path: Assets/Scenes/Argon.unity
+    guid: a2cf328612ad77c4fafec5662756cdc5
+  - enabled: 1
+    path: Assets/Scenes/Barium.unity
+    guid: f39c8d4a5d8521f41b7be5435ee11ee7
+  - enabled: 1
+    path: Assets/Scenes/Cadmium.unity
+    guid: 6b89bb5797828564e997f2442881b06e
+  - enabled: 1
+    path: Assets/Scenes/Calcium.unity
+    guid: 535e7bb14aa99fa46abbacfe967af58d
+  - enabled: 1
+    path: Assets/Scenes/Carbon.unity
+    guid: 2a54ba3b82730a840ac634d647b094b1
+  - enabled: 1
+    path: Assets/Scenes/Dysprosium.unity
+    guid: 5aec44a8c2068e3469f1868455c016d3
+  - enabled: 1
+    path: Assets/Scenes/Erbium.unity
+    guid: 34ddc6e618fa00a42a2e145f4b951c91
+  - enabled: 1
+    path: Assets/Scenes/Gadolinium.unity
+    guid: 034a6e09e3c66bf45adb1c0609399576
+  - enabled: 1
+    path: Assets/Scenes/Germanium.unity
+    guid: 708a38f5ae7ca1c41a94ba9496a7e3a5
+  - enabled: 1
+    path: Assets/Scenes/Hafnium.unity
+    guid: fc3eb87a61447174fb140f526285f70a
+  - enabled: 1
+    path: Assets/Scenes/Iron.unity
+    guid: 2dfdd41a378a41041ada8926713d2e99
+  - enabled: 1
+    path: Assets/Scenes/Krypton.unity
+    guid: d649e3f21f75595429d35db8e55f32a9
+  - enabled: 1
+    path: Assets/Scenes/Lead.unity
+    guid: 50b0c68bb267d1f4eb22897ab80f69a5
+  - enabled: 1
+    path: Assets/Scenes/Magnesium.unity
+    guid: d66ca09be507a594680c504bfd68fb1a
+  - enabled: 1
+    path: Assets/Scenes/Mercury.unity
+    guid: 4e14a21b1fc8b83449d4d1301c1f21fd
+  - enabled: 1
+    path: Assets/Scenes/Molybdenum.unity
+    guid: 871c576018551d94f9e50eecf12172f4
+  - enabled: 1
+    path: Assets/Scenes/Neodymium.unity
+    guid: ac2133affa17df942b623e49d034c5f3
+  - enabled: 1
+    path: Assets/Scenes/Neon.unity
+    guid: 98bd4fcbc0ffe224c886322257a3497c
+  - enabled: 1
+    path: Assets/Scenes/Nickel.unity
+    guid: 746cc9b1b7547884e9bdbf181743a860
+  - enabled: 1
+    path: Assets/Scenes/Osmium.unity
+    guid: 1a45cb6823eafc84b81be9c5e8c60e8e
+  - enabled: 1
+    path: Assets/Scenes/Oxygen.unity
+    guid: 82236f6341d3c8a419432157407e4ada
+  - enabled: 1
+    path: Assets/Scenes/Palladium.unity
+    guid: 2c06607483cdaf34ba0b9be1b7ef372b
+  - enabled: 1
+    path: Assets/Scenes/Polonium.unity
+    guid: 0a013b03cb3f019459b4874c9b050b6a
+  - enabled: 1
+    path: Assets/Scenes/Radon.unity
+    guid: 4b222e1d07f02c24bb94c00fe40c4810
+  - enabled: 1
+    path: Assets/Scenes/Samarium.unity
+    guid: 00b88003bfe4fce48aef948014274f07
+  - enabled: 1
+    path: Assets/Scenes/Selenium.unity
+    guid: ca41d4d0eb83fe24ca0f2a3a735182c8
+  - enabled: 1
+    path: Assets/Scenes/Silicon.unity
+    guid: b03a3df9067b631409e8903ee11f3d8d
+  - enabled: 1
+    path: Assets/Scenes/Strontium.unity
+    guid: b972c44e59e05694ba00ebe37d937db0
+  - enabled: 1
+    path: Assets/Scenes/Sulfur.unity
+    guid: 5bf5fca0ff9828f41941422785d07d21
+  - enabled: 1
+    path: Assets/Scenes/Tellurium.unity
+    guid: cdcf45f8afbea204c9389f52245b1c5a
+  - enabled: 1
+    path: Assets/Scenes/Tin.unity
+    guid: abb294048421b174e8f4c2ffef14efef
+  - enabled: 1
+    path: Assets/Scenes/Titanium.unity
+    guid: 1ced9a0b983157d4ea1405ed402c8903
+  - enabled: 1
+    path: Assets/Scenes/Tungsten.unity
+    guid: ea18641e8b1a82d4a93c63f9fa0ee68d
+  - enabled: 1
+    path: Assets/Scenes/Xenon.unity
+    guid: 9e9d22f40fa769e409044fa1fbaa35ad
+  - enabled: 1
+    path: Assets/Scenes/Ytterbium.unity
+    guid: 0f525f547a98325419cc3995f3ea86a5
+  - enabled: 1
+    path: Assets/Scenes/Zinc.unity
+    guid: 72a9d140e8d5d8242834de8755b7db04
+  - enabled: 1
+    path: Assets/Scenes/Zirconium.unity
+    guid: d2b06a75750495f4fb5f45d8e5562333
+  m_configObjects: {}
